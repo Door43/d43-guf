@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[guf:home|Door43 (guf)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-guf|d43-guf repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-guf/archive/master.zip|d43-guf.zip]]
+
+**Recent Changes**
+{{changes>ns = guf}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/guf|Ethnologue data]]
+
